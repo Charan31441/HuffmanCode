@@ -1,3 +1,11 @@
+/**************************************************************************
+ *Author:  Charan
+ *Date:  20 November 2014
+ *Filename: huffman.c
+ *Description: Huffman Code In C language
+ ****************************************************************************/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
